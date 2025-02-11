@@ -19,8 +19,7 @@
 AI models must be **fair, transparent, and unbiased** to ensure they benefit **all communities** without discrimination. This repository helps in understanding how to **audit, evaluate, and improve AI models** with fairness in mind.  
 
 ## 📩 Contact  
-For any inquiries, reach out via: **[Your Email]**  
-📌 LinkedIn: [Your LinkedIn Profile]  
-🌐 Website: [SoulMindFusion.com]  
+For any inquiries, reach out via: livelikelotusleaf@gmail.com  
+📌 LinkedIn: www.linkedin.com/in/ravi-sai-manohar-07328740
 
 🚀 **Let’s build AI responsibly!**  
