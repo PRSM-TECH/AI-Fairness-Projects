@@ -37,6 +37,7 @@ AI models must be fair, transparent, and unbiased to ensure they benefit all com
 📩 Contact
 
 For any inquiries, reach out via: livelikelotusleaf@gmail.com
+LinkedIn: www.linkedin.com/in/ravi-sai-manohar-07328740
 
 🚀 Let’s build AI responsibly!
 
